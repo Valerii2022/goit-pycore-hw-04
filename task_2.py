@@ -13,5 +13,5 @@ def get_cats_info(path):
         print("Сталася помилка.")
         return []
 
-cats_info = get_cats_info("task#2.txt")
+cats_info = get_cats_info("task_2.txt")
 print(cats_info)

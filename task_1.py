@@ -16,5 +16,5 @@ def total_salary(path):
         print(f"Сталася помилка.")
         return (0, 0)
 
-total, average = total_salary("task#1.txt")
+total, average = total_salary("task_1.txt")
 print(total, average)
