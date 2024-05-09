@@ -17,4 +17,4 @@ def total_salary(path):
         return (0, 0)
 
 total, average = total_salary("task_1.txt")
-print(total, average)
+print(f"Загальна сума заробітної плати: {total}, Середня заробітна плата: {average}")
